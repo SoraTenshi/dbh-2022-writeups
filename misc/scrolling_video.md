@@ -11,7 +11,7 @@ import sys
 import os
 from PIL import Image
 
-f_f = "./fixed_frames"
+f_f = "./frames"
 images = []
 for _,_,fs in os.walk(f_f):
     for f in fs:
