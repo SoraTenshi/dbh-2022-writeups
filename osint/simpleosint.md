@@ -7,7 +7,7 @@ So hab ich nun also erstmal meine Suchmaschine der Wahl angeworfen um nach dem N
 
 Der erste Treffer ist ein Github link, welchen ich folgte.
 3 Repositories, wovon 2 forks sind.
-So hab ich also `my-first-project` inspiziert, ein einfaches Python script, welches eine mail mail mit den dort konfigurierten werden schickt:
+So hab ich also `my-first-project` inspiziert, ein einfaches Python script, welches eine mail mail mit den dort konfigurierten Werten schickt:
 
 ```json
 {
